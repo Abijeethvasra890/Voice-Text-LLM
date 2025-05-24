@@ -1,0 +1,8 @@
+streamlit
+sounddevice
+scipy
+openai-whisper
+faster-whisper
+langchain-groq
+python-dotenv
+langchain
