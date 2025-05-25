@@ -6,3 +6,9 @@ faster-whisper
 langchain-groq
 python-dotenv
 langchain
+streamlit-audiorecorder
+uvicorn
+streamlit-webrtc
+fastapi
+websockets
+streamlit-mic-recorder
